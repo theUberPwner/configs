@@ -1,5 +1,3 @@
-alias rmep='rsync -av --delete ~/PassportParking/eclipse/superpassport/opmgmt/main/OperatorMain/war/ ppdevelopment@myeasyp.com:~/developmentnew/ui/opmgmt/'
-
 ##########GIT ALIASES############
 alias codev='git checkout development'
 alias costag='git checkout staging'
